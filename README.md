@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Leonardo Rodrigues</h1>
-<h3 align="center">Amante de análise de dados.</h3>
+<h3 align="center">Amante de análise e ciência de dados.</h3>
 
 - 🌱 Atualmente estou aprendendo **Python, SQL, Power BI, Excel**
 
